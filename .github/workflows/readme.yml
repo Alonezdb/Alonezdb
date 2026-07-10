@@ -37,4 +37,5 @@ jobs:
           git config --local user.name "GitHub Action"
           git add assets/spotify.svg assets/metrics.svg
           git diff --quiet && git diff --staged --quiet || git commit -m "chore: Rebuild all SVG assets"
+          git pull --rebase origin main
           git push

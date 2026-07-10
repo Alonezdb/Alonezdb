@@ -8,25 +8,23 @@
 <br/><br/>
 
 <!-- Description: WHO IS NICO -->
-<table width="800" border="0" cellpadding="0" cellspacing="0" align="center" style="border-collapse: collapse; border: none; margin: 0 auto;">
-  <tr style="border: none;">
-    <td width="800" valign="top" style="border: none; padding: 10px;">
-      <h3 style="font-family: -apple-system, BlinkMacSystemFont, 'Outfit', 'Segoe UI', sans-serif; font-weight: 700; color: #ffffff; letter-spacing: -0.02em; margin-top: 0; margin-bottom: 16px;">WHO IS NICO?</h3>
-      <p style="font-family: -apple-system, BlinkMacSystemFont, 'Outfit', 'Segoe UI', sans-serif; font-size: 15px; color: #a1a1aa; line-height: 1.6; margin-bottom: 16px;">
-        I am an <strong>IT System Technician</strong> specialized in constructing resilient infrastructure, virtualization architectures, and secure enterprise networks.
-      </p>
-      <p style="font-family: -apple-system, BlinkMacSystemFont, 'Outfit', 'Segoe UI', sans-serif; font-size: 15px; color: #a1a1aa; line-height: 1.6; margin-bottom: 24px;">
-        Bridging the gap between physical networks and software automation, I build workflows that are highly performant, scalable, and secure.
-      </p>
-      <h4 style="font-family: -apple-system, BlinkMacSystemFont, 'Outfit', 'Segoe UI', sans-serif; font-weight: 600; color: #e4e4e7; font-size: 13px; letter-spacing: 0.1em; margin-bottom: 10px;">CURRENT FOCUS</h4>
-      <ul style="font-family: -apple-system, BlinkMacSystemFont, 'Outfit', 'Segoe UI', sans-serif; font-size: 14.5px; color: #71717a; line-height: 1.7; padding-left: 20px; margin: 0;">
-        <li>Automating VM environments and setups using Python &amp; Bash.</li>
-        <li>Enterprise firewall configurations and VLAN network segmentation.</li>
-        <li>Container orchestration &amp; secure GitOps pipelines.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <div style="max-width: 800px; text-align: left; padding: 24px; border-left: 4px solid #00f2fe; background: rgba(255,255,255,0.02); border-radius: 0 12px 12px 0;">
+    <h3 style="font-family: -apple-system, BlinkMacSystemFont, 'Outfit', 'Segoe UI', sans-serif; font-weight: 700; color: #ffffff; font-size: 20px; margin-top: 0; margin-bottom: 12px; letter-spacing: -0.01em;">WHO IS NICO?</h3>
+    <p style="font-family: -apple-system, BlinkMacSystemFont, 'Outfit', 'Segoe UI', sans-serif; font-size: 14.5px; color: #a1a1aa; line-height: 1.6; margin-bottom: 12px;">
+      I am an <strong>IT System Technician</strong> specialized in constructing resilient infrastructure, virtualization architectures, and secure enterprise networks.
+    </p>
+    <p style="font-family: -apple-system, BlinkMacSystemFont, 'Outfit', 'Segoe UI', sans-serif; font-size: 14.5px; color: #a1a1aa; line-height: 1.6; margin-bottom: 20px;">
+      Bridging the gap between physical networks and software automation, I build workflows that are highly performant, scalable, and secure.
+    </p>
+    <h4 style="font-family: -apple-system, BlinkMacSystemFont, 'Outfit', 'Segoe UI', sans-serif; font-weight: 600; color: #e4e4e7; font-size: 13px; letter-spacing: 0.05em; margin-bottom: 8px;">CURRENT FOCUS</h4>
+    <ul style="font-family: -apple-system, BlinkMacSystemFont, 'Outfit', 'Segoe UI', sans-serif; font-size: 14px; color: #71717a; line-height: 1.7; padding-left: 20px; margin: 0;">
+      <li>Automating VM environments and setups using Python &amp; Bash.</li>
+      <li>Enterprise firewall configurations and VLAN network segmentation.</li>
+      <li>Container orchestration &amp; secure GitOps pipelines.</li>
+    </ul>
+  </div>
+</div>
 
 <br/><br/>
 
@@ -42,18 +40,18 @@
   <h3 style="font-family: -apple-system, BlinkMacSystemFont, 'Outfit', 'Segoe UI', sans-serif; font-weight: 700; color: #ffffff; letter-spacing: -0.02em; margin-bottom: 25px;">ENGINEERING STACK</h3>
   
   <!-- High-quality transparent brand icons with cache-busters -->
-  <img src="https://cdn.simpleicons.org/openjdk?v=2" width="48" height="48" alt="Java" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/python?v=2" width="48" height="48" alt="Python" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript?v=2" width="48" height="48" alt="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/react?v=2" width="48" height="48" alt="React" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/csharp?v=2" width="48" height="48" alt="C#" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cplusplus?v=2" width="48" height="48" alt="C++" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/docker?v=2" width="48" height="48" alt="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/linux?v=2" width="48" height="48" alt="Linux" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git?v=2" width="48" height="48" alt="Git" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/gemini?v=2" width="48" height="48" alt="Antigravity IDE" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/spotify?v=2" width="48" height="48" alt="Spotify" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/discord?v=2" width="48" height="48" alt="Discord" />
+  <img src="https://cdn.simpleicons.org/java/auto?v=3" width="48" height="48" alt="Java" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/auto?v=3" width="48" height="48" alt="Python" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/auto?v=3" width="48" height="48" alt="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react/auto?v=3" width="48" height="48" alt="React" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/csharp/auto?v=3" width="48" height="48" alt="C#" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cplusplus/auto?v=3" width="48" height="48" alt="C++" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/auto?v=3" width="48" height="48" alt="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/linux/auto?v=3" width="48" height="48" alt="Linux" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/auto?v=3" width="48" height="48" alt="Git" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/google/auto?v=3" width="48" height="48" alt="Antigravity IDE" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/spotify/auto?v=3" width="48" height="48" alt="Spotify" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/discord/auto?v=3" width="48" height="48" alt="Discord" />
 </div>
 
 <br/><br/>
@@ -112,8 +110,8 @@
     <!-- Contribution Snake -->
     <td width="360" valign="top" style="border: none; padding: 10px;">
       <h4 align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Outfit', sans-serif; font-weight: 700; color: #e4e4e7; font-size: 13px; letter-spacing: 0.05em; margin-top: 0; margin-bottom: 15px;">CONTRIBUTION GRAPH</h4>
-      <div align="center" style="background: #09090b; border: 1.2px solid rgba(255,255,255,0.08); border-radius: 18px; padding: 20px 10px; width: 330px;">
-        <img src="assets/github-contribution-grid-snake-dark.svg" width="310" alt="Contribution Snake" />
+      <div align="center">
+        <img src="assets/github-contribution-grid-snake-dark.svg" width="330" alt="Contribution Snake" />
       </div>
     </td>
   </tr>

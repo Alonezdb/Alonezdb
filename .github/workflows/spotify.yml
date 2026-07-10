@@ -36,4 +36,5 @@ jobs:
           git config --local user.name "GitHub Action"
           git add assets/spotify.svg
           git diff --quiet && git diff --staged --quiet || git commit -m "chore: Update Spotify Live status [skip ci]"
+          git pull --rebase origin main
           git push
