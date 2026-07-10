@@ -5,25 +5,10 @@
   <img src="https://raw.githubusercontent.com/Alonezdb/Alonezdb/main/assets/terminal.svg?v=5" width="800" alt="Terminal" />
 </div>
 
-<br/><br/>
-
-<!-- Description: WHO IS NICO -->
-<div align="center">
-  <h3 style="font-family: -apple-system, BlinkMacSystemFont, 'Outfit', 'Segoe UI', sans-serif; font-weight: 700; color: #ffffff; font-size: 22px; letter-spacing: -0.01em; margin-bottom: 8px;">WHO IS NICO?</h3>
-  <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 15.5px; color: #a1a1aa; max-width: 720px; line-height: 1.6; margin-top: 0; margin-bottom: 25px; text-align: center;">
-    I am an <strong>IT System Technician</strong> specialized in constructing resilient infrastructure, virtualization architectures, and secure enterprise networks. Bridging the physical and virtual worlds, I build automated workflows that are highly performant and secure.
-  </p>
-</div>
-
-<br/><br/>
-
 <div align="center">
   <!-- Divider -->
   <img src="https://raw.githubusercontent.com/Alonezdb/Alonezdb/main/assets/divider.svg?v=5" width="800" alt="Divider" />
 </div>
-
-<br/><br/>
-
 <!-- Tech Stack Section -->
 <div align="center">
   <h3 style="font-family: -apple-system, BlinkMacSystemFont, 'Outfit', 'Segoe UI', sans-serif; font-weight: 700; color: #ffffff; letter-spacing: -0.02em; margin-bottom: 25px;">ENGINEERING STACK</h3>
@@ -42,46 +27,28 @@
   <img src="https://cdn.simpleicons.org/spotify/1db954?v=5" width="48" height="48" alt="Spotify" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/discord/5865f2?v=5" width="48" height="48" alt="Discord" />
 </div>
-
-<br/><br/>
-
 <div align="center">
   <!-- Divider -->
   <img src="https://raw.githubusercontent.com/Alonezdb/Alonezdb/main/assets/divider.svg?v=5" width="800" alt="Divider" />
 </div>
-
-<br/>
-
 <!-- Projects Showcase -->
 <div align="center">
   <h3 style="font-family: -apple-system, BlinkMacSystemFont, 'Outfit', 'Segoe UI', sans-serif; font-weight: 700; color: #ffffff; letter-spacing: -0.02em; margin-bottom: 20px;">FEATURED PROJECTS</h3>
   <img src="https://raw.githubusercontent.com/Alonezdb/Alonezdb/main/assets/projects.svg?v=5" width="800" alt="Project Cards" />
 </div>
-
-<br/>
-
 <div align="center">
   <!-- Divider -->
   <img src="https://raw.githubusercontent.com/Alonezdb/Alonezdb/main/assets/divider.svg?v=5" width="800" alt="Divider" />
 </div>
-
-<br/>
-
 <!-- Statistics & Languages -->
 <div align="center">
   <h3 style="font-family: -apple-system, BlinkMacSystemFont, 'Outfit', 'Segoe UI', sans-serif; font-weight: 700; color: #ffffff; letter-spacing: -0.02em; margin-bottom: 20px;">ANALYTICS &amp; METRICS</h3>
   <img src="https://raw.githubusercontent.com/Alonezdb/Alonezdb/main/assets/metrics.svg?v=5" width="800" alt="GitHub Profile Metrics" />
 </div>
-
-<br/>
-
 <div align="center">
   <!-- Divider -->
   <img src="https://raw.githubusercontent.com/Alonezdb/Alonezdb/main/assets/divider.svg?v=5" width="800" alt="Divider" />
 </div>
-
-<br/>
-
 <!-- Live Spotify & Snake Grid -->
 <table width="800" border="0" cellpadding="0" cellspacing="0" align="center" style="border-collapse: collapse; border: none; margin: 0 auto;">
   <tr style="border: none;">
