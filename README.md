@@ -9,21 +9,8 @@
 
 <!-- Description: WHO IS NICO -->
 <div align="center">
-  <div style="max-width: 800px; text-align: left; padding: 24px; border-left: 4px solid #00f2fe; background: rgba(255,255,255,0.02); border-radius: 0 12px 12px 0;">
-    <h3 style="font-family: -apple-system, BlinkMacSystemFont, 'Outfit', 'Segoe UI', sans-serif; font-weight: 700; color: #ffffff; font-size: 20px; margin-top: 0; margin-bottom: 12px; letter-spacing: -0.01em;">WHO IS NICO?</h3>
-    <p style="font-family: -apple-system, BlinkMacSystemFont, 'Outfit', 'Segoe UI', sans-serif; font-size: 14.5px; color: #a1a1aa; line-height: 1.6; margin-bottom: 12px;">
-      I am an <strong>IT System Technician</strong> specialized in constructing resilient infrastructure, virtualization architectures, and secure enterprise networks.
-    </p>
-    <p style="font-family: -apple-system, BlinkMacSystemFont, 'Outfit', 'Segoe UI', sans-serif; font-size: 14.5px; color: #a1a1aa; line-height: 1.6; margin-bottom: 20px;">
-      Bridging the gap between physical networks and software automation, I build workflows that are highly performant, scalable, and secure.
-    </p>
-    <h4 style="font-family: -apple-system, BlinkMacSystemFont, 'Outfit', 'Segoe UI', sans-serif; font-weight: 600; color: #e4e4e7; font-size: 13px; letter-spacing: 0.05em; margin-bottom: 8px;">CURRENT FOCUS</h4>
-    <ul style="font-family: -apple-system, BlinkMacSystemFont, 'Outfit', 'Segoe UI', sans-serif; font-size: 14px; color: #71717a; line-height: 1.7; padding-left: 20px; margin: 0;">
-      <li>Automating VM environments and setups using Python &amp; Bash.</li>
-      <li>Enterprise firewall configurations and VLAN network segmentation.</li>
-      <li>Container orchestration &amp; secure GitOps pipelines.</li>
-    </ul>
-  </div>
+  <!-- Custom designed glassmorphic about card -->
+  <img src="assets/about.svg?v=4" width="800" alt="Who is Nico" />
 </div>
 
 <br/><br/>
@@ -40,18 +27,18 @@
   <h3 style="font-family: -apple-system, BlinkMacSystemFont, 'Outfit', 'Segoe UI', sans-serif; font-weight: 700; color: #ffffff; letter-spacing: -0.02em; margin-bottom: 25px;">ENGINEERING STACK</h3>
   
   <!-- High-quality transparent brand icons with cache-busters -->
-  <img src="https://cdn.simpleicons.org/java/auto?v=3" width="48" height="48" alt="Java" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/python/auto?v=3" width="48" height="48" alt="Python" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/auto?v=3" width="48" height="48" alt="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/react/auto?v=3" width="48" height="48" alt="React" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/csharp/auto?v=3" width="48" height="48" alt="C#" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cplusplus/auto?v=3" width="48" height="48" alt="C++" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/docker/auto?v=3" width="48" height="48" alt="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/linux/auto?v=3" width="48" height="48" alt="Linux" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git/auto?v=3" width="48" height="48" alt="Git" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/google/auto?v=3" width="48" height="48" alt="Antigravity IDE" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/spotify/auto?v=3" width="48" height="48" alt="Spotify" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/discord/auto?v=3" width="48" height="48" alt="Discord" />
+  <img src="https://cdn.simpleicons.org/openjdk/f89820?v=4" width="48" height="48" alt="Java" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/3776ab?v=4" width="48" height="48" alt="Python" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/f7df1e?v=4" width="48" height="48" alt="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react/61dafb?v=4" width="48" height="48" alt="React" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/dotnet/512bd4?v=4" width="48" height="48" alt="C#" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cplusplus/00599c?v=4" width="48" height="48" alt="C++" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ed?v=4" width="48" height="48" alt="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/linux/fcc624?v=4" width="48" height="48" alt="Linux" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/f05032?v=4" width="48" height="48" alt="Git" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/google/4285f4?v=4" width="48" height="48" alt="Antigravity IDE" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/spotify/1db954?v=4" width="48" height="48" alt="Spotify" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/discord/5865f2?v=4" width="48" height="48" alt="Discord" />
 </div>
 
 <br/><br/>
@@ -81,7 +68,7 @@
 <!-- Statistics & Languages -->
 <div align="center">
   <h3 style="font-family: -apple-system, BlinkMacSystemFont, 'Outfit', 'Segoe UI', sans-serif; font-weight: 700; color: #ffffff; letter-spacing: -0.02em; margin-bottom: 20px;">ANALYTICS &amp; METRICS</h3>
-  <img src="assets/metrics.svg" width="800" alt="GitHub Profile Metrics" />
+  <img src="assets/metrics.svg?v=4" width="800" alt="GitHub Profile Metrics" />
 </div>
 
 <br/>
@@ -153,5 +140,5 @@
   <br/>
   
   <!-- Footer Signature -->
-  <img src="assets/footer.svg" width="800" alt="Footer Signature" />
+  <img src="assets/footer.svg?v=4" width="800" alt="Footer Signature" />
 </div>
