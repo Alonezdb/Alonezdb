@@ -25,8 +25,8 @@ jobs:
         with:
           github_user_name: Alonezdb
           outputs: |
-            assets/github-contribution-grid-snake.svg?color_snake=#00f2fe&color_dots=#161b22,#0e2a4a,#1b4d8a,#2d72d9,#58a6ff
-            assets/github-contribution-grid-snake-dark.svg?color_snake=#00f2fe&color_dots=#161b22,#0e2a4a,#1b4d8a,#2d72d9,#58a6ff
+            assets/github-contribution-grid-snake.svg?color_snake=#00f2fe&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+            assets/github-contribution-grid-snake-dark.svg?color_snake=#00f2fe&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
 
       - name: Commit snake assets
         run: |
