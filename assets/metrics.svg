@@ -71,25 +71,25 @@
     <!-- Grid of Stats -->
     <!-- Col 1, Row 1: Commits -->
     <g transform="translate(0, 40)">
-      <text x="0" y="24" class="stat-val">482</text>
+      <text x="0" y="24" class="stat-val">8</text>
       <text x="0" y="44" class="stat-lbl">TOTAL COMMITS</text>
     </g>
 
     <!-- Col 2, Row 1: Stars -->
     <g transform="translate(160, 40)">
-      <text x="0" y="24" class="stat-val">34</text>
+      <text x="0" y="24" class="stat-val">1</text>
       <text x="0" y="44" class="stat-lbl">STARS EARNED</text>
     </g>
 
     <!-- Col 1, Row 2: Repos -->
     <g transform="translate(0, 140)">
-      <text x="0" y="24" class="stat-val">28</text>
+      <text x="0" y="24" class="stat-val">2</text>
       <text x="0" y="44" class="stat-lbl">REPOSITORIES</text>
     </g>
 
     <!-- Col 2, Row 2: Followers -->
     <g transform="translate(160, 140)">
-      <text x="0" y="24" class="stat-val">12</text>
+      <text x="0" y="24" class="stat-val">0</text>
       <text x="0" y="44" class="stat-lbl">FOLLOWERS</text>
     </g>
   </g>
@@ -103,13 +103,12 @@
     
     <!-- Stack Bar -->
     <g transform="translate(0, 45)">
+      <!-- Background track -->
       <rect width="320" height="12" rx="6" fill="#18181b" />
+      
+      <!-- Colored segments -->
       <g clip-path="url(#barClip)">
-        <rect x="0" y="0" width="123.2" height="12" fill="#b07219" rx="6" />
-        <rect x="123.2" y="0" width="77.44" height="12" fill="#3572A5" />
-        <rect x="200.64" y="0" width="58.56" height="12" fill="#f1e05a" />
-        <rect x="259.2" y="0" width="35.2" height="12" fill="#178600" />
-        <rect x="294.4" y="0" width="25.6" height="12" fill="#3893e8" rx="6" />
+        <rect x="0" y="0" width="320" height="12" fill="#f1e05a" rx="6" />
       </g>
       <clipPath id="barClip">
         <rect width="320" height="12" rx="6" />
@@ -118,29 +117,11 @@
   </g>
 
   <!-- Legend Items -->
-  <g transform="translate(420, 145)">
-    <circle cx="10" cy="8" r="5" fill="#b07219" />
-    <text x="24" y="12" class="legend-name">Java</text>
-    <text x="280" y="12" class="legend-percent" text-anchor="end">38.5%</text>
-  </g>
-  <g transform="translate(420, 169)">
-    <circle cx="10" cy="8" r="5" fill="#3572A5" />
-    <text x="24" y="12" class="legend-name">Python</text>
-    <text x="280" y="12" class="legend-percent" text-anchor="end">24.2%</text>
-  </g>
-  <g transform="translate(420, 193)">
-    <circle cx="10" cy="8" r="5" fill="#f1e05a" />
-    <text x="24" y="12" class="legend-name">JavaScript</text>
-    <text x="280" y="12" class="legend-percent" text-anchor="end">18.3%</text>
-  </g>
-  <g transform="translate(420, 217)">
-    <circle cx="10" cy="8" r="5" fill="#178600" />
-    <text x="24" y="12" class="legend-name">C#</text>
-    <text x="280" y="12" class="legend-percent" text-anchor="end">11%</text>
-  </g>
-  <g transform="translate(420, 241)">
-    <circle cx="10" cy="8" r="5" fill="#3893e8" />
-    <text x="24" y="12" class="legend-name">Docker</text>
-    <text x="280" y="12" class="legend-percent" text-anchor="end">8%</text>
-  </g>
+  
+      <g transform="translate(420, 145)">
+        <circle cx="10" cy="8" r="5" fill="#f1e05a" />
+        <text x="24" y="12" class="legend-name">JavaScript</text>
+        <text x="280" y="12" class="legend-percent" text-anchor="end">100%</text>
+      </g>
+    
 </svg>
