@@ -70,19 +70,19 @@
 <div align="center">
   <h3 style="font-family: -apple-system, BlinkMacSystemFont, 'Outfit', 'Segoe UI', sans-serif; font-weight: 700; color: #ffffff; letter-spacing: -0.02em; margin-bottom: 25px;">ENGINEERING STACK</h3>
   
-  <!-- Hoverable stack of custom handcrafted icons -->
-  <a href="#" style="text-decoration: none; margin: 0 4px;"><img src="assets/icons/java.svg" width="60" height="60" alt="Java" /></a>
-  <a href="#" style="text-decoration: none; margin: 0 4px;"><img src="assets/icons/python.svg" width="60" height="60" alt="Python" /></a>
-  <a href="#" style="text-decoration: none; margin: 0 4px;"><img src="assets/icons/javascript.svg" width="60" height="60" alt="JavaScript" /></a>
-  <a href="#" style="text-decoration: none; margin: 0 4px;"><img src="assets/icons/react.svg" width="60" height="60" alt="React" /></a>
-  <a href="#" style="text-decoration: none; margin: 0 4px;"><img src="assets/icons/csharp.svg" width="60" height="60" alt="C#" /></a>
-  <a href="#" style="text-decoration: none; margin: 0 4px;"><img src="assets/icons/cpp.svg" width="60" height="60" alt="C++" /></a>
-  <a href="#" style="text-decoration: none; margin: 0 4px;"><img src="assets/icons/docker.svg" width="60" height="60" alt="Docker" /></a>
-  <a href="#" style="text-decoration: none; margin: 0 4px;"><img src="assets/icons/linux.svg" width="60" height="60" alt="Linux" /></a>
-  <a href="#" style="text-decoration: none; margin: 0 4px;"><img src="assets/icons/git.svg" width="60" height="60" alt="Git" /></a>
-  <a href="#" style="text-decoration: none; margin: 0 4px;"><img src="assets/icons/vscode.svg" width="60" height="60" alt="VSCode" /></a>
-  <a href="#" style="text-decoration: none; margin: 0 4px;"><img src="assets/icons/spotify.svg" width="60" height="60" alt="Spotify" /></a>
-  <a href="#" style="text-decoration: none; margin: 0 4px;"><img src="assets/icons/discord.svg" width="60" height="60" alt="Discord" /></a>
+  <!-- High-quality official brand icons -->
+  <img src="https://cdn.simpleicons.org/openjdk/F89820" width="48" height="48" alt="Java" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="48" height="48" alt="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="48" height="48" alt="React" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/csharp/512BD4" width="48" height="48" alt="C#" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="48" height="48" alt="C++" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="48" height="48" alt="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/linux/FCC624" width="48" height="48" alt="Linux" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" alt="Git" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="48" height="48" alt="VSCode" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/spotify/1DB954" width="48" height="48" alt="Spotify" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/discord/5865F2" width="48" height="48" alt="Discord" />
 </div>
 
 <br/><br/>
@@ -131,6 +131,7 @@
     <td width="420" valign="top" style="border: none; padding: 10px;">
       <h4 align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Outfit', sans-serif; font-weight: 700; color: #e4e4e7; font-size: 13px; letter-spacing: 0.05em; margin-top: 0; margin-bottom: 15px;">SPOTIFY LIVE STATUS</h4>
       <div align="center">
+        <!-- Vercel Deployment Link (Replace 'assets/spotify.svg' with 'https://your-vercel-project.vercel.app/api/spotify' for instant updates) -->
         <a href="https://open.spotify.com" target="_blank" style="text-decoration: none;">
           <img src="assets/spotify.svg" width="400" alt="Spotify status" />
         </a>

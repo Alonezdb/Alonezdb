@@ -83,22 +83,22 @@
       @keyframes cur-move-all {
         /* Line 1 Typing */
         0%, 5% { transform: translate(0px, 0px); opacity: 1; }
-        12%, 14.9% { transform: translate(52px, 0px); opacity: 1; }
+        12%, 14.9% { transform: translate(48px, 0px); opacity: 1; }
         /* Line 2 (Output whoami) -> Cursor moves to prompt 2 */
         15%, 18% { transform: translate(0px, 44px); opacity: 1; }
-        25%, 29.9% { transform: translate(36px, 44px); opacity: 1; }
+        25%, 29.9% { transform: translate(32px, 44px); opacity: 1; }
         /* Line 3 (Output role) -> Cursor moves to prompt 3 */
         30%, 33% { transform: translate(0px, 88px); opacity: 1; }
-        40%, 44.9% { transform: translate(52px, 88px); opacity: 1; }
+        40%, 44.9% { transform: translate(48px, 88px); opacity: 1; }
         /* Line 4 (Output skills) -> Cursor moves to prompt 4 */
-        45%, 48% { transform: translate(0px, 154px); opacity: 1; }
-        55%, 59.9% { transform: translate(88px, 154px); opacity: 1; }
+        45%, 48% { transform: translate(0px, 132px); opacity: 1; }
+        55%, 59.9% { transform: translate(80px, 132px); opacity: 1; }
         /* Line 5 (Output git status) -> Cursor moves to prompt 5 */
-        60%, 63% { transform: translate(0px, 198px); opacity: 1; }
-        70%, 74.9% { transform: translate(52px, 198px); opacity: 1; }
+        60%, 63% { transform: translate(0px, 220px); opacity: 1; }
+        70%, 74.9% { transform: translate(48px, 220px); opacity: 1; }
         /* Line 6 (Output github) -> Cursor moves to prompt 6 */
-        75%, 90% { transform: translate(0px, 242px); opacity: 1; }
-        100% { transform: translate(0px, 242px); opacity: 1; }
+        75%, 90% { transform: translate(0px, 264px); opacity: 1; }
+        100% { transform: translate(0px, 264px); opacity: 1; }
       }
 
       .moving-cursor {
@@ -106,11 +106,11 @@
       }
     </style>
 
-    <clipPath id="clip-cmd1"><rect class="cmd-clip-1" x="180" y="60" width="0" height="30" /></clipPath>
-    <clipPath id="clip-cmd2"><rect class="cmd-clip-2" x="180" y="104" width="0" height="30" /></clipPath>
-    <clipPath id="clip-cmd3"><rect class="cmd-clip-3" x="180" y="148" width="0" height="30" /></clipPath>
-    <clipPath id="clip-cmd4"><rect class="cmd-clip-4" x="180" y="214" width="0" height="30" /></clipPath>
-    <clipPath id="clip-cmd5"><rect class="cmd-clip-5" x="180" y="258" width="0" height="30" /></clipPath>
+    <clipPath id="clip-cmd1"><rect class="cmd-clip-1" x="135" y="-12" width="0" height="18" /></clipPath>
+    <clipPath id="clip-cmd2"><rect class="cmd-clip-2" x="135" y="32" width="0" height="18" /></clipPath>
+    <clipPath id="clip-cmd3"><rect class="cmd-clip-3" x="135" y="76" width="0" height="18" /></clipPath>
+    <clipPath id="clip-cmd4"><rect class="cmd-clip-4" x="135" y="120" width="0" height="18" /></clipPath>
+    <clipPath id="clip-cmd5"><rect class="cmd-clip-5" x="135" y="208" width="0" height="18" /></clipPath>
 
     <!-- Noise Filter -->
     <filter id="noiseFilter">

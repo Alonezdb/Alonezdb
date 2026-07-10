@@ -41,17 +41,8 @@
         50% { transform: translateY(-5px); }
       }
 
-      @keyframes shimmer {
-        0% { transform: translateX(-150px) rotate(30deg); }
-        100% { transform: translateX(350px) rotate(30deg); }
-      }
-
       .card-group {
         animation: float 6s ease-in-out infinite;
-      }
-
-      .shimmer-rect {
-        animation: shimmer 5s ease-in-out infinite;
       }
 
       .card-1 { animation-delay: 0s; }
@@ -92,7 +83,9 @@
     
     <!-- Shimmer reflection -->
     <g clip-path="url(#shimmerClip)">
-      <rect class="shimmer-rect" x="-100" y="-100" width="100" height="400" fill="url(#shimmerGrad)" />
+      <rect x="-150" y="-50" width="80" height="360" fill="url(#shimmerGrad)" transform="rotate(25)">
+        <animate attributeName="x" values="-150;350" dur="4s" repeatCount="indefinite" />
+      </rect>
     </g>
 
     <!-- Content -->
@@ -115,7 +108,9 @@
     
     <!-- Shimmer reflection -->
     <g clip-path="url(#shimmerClip)">
-      <rect class="shimmer-rect" x="-100" y="-100" width="100" height="400" fill="url(#shimmerGrad)" />
+      <rect x="-150" y="-50" width="80" height="360" fill="url(#shimmerGrad)" transform="rotate(25)">
+        <animate attributeName="x" values="-150;350" dur="4s" repeatCount="indefinite" />
+      </rect>
     </g>
 
     <!-- Content -->
@@ -139,7 +134,9 @@
     
     <!-- Shimmer reflection -->
     <g clip-path="url(#shimmerClip)">
-      <rect class="shimmer-rect" x="-100" y="-100" width="100" height="400" fill="url(#shimmerGrad)" />
+      <rect x="-150" y="-50" width="80" height="360" fill="url(#shimmerGrad)" transform="rotate(25)">
+        <animate attributeName="x" values="-150;350" dur="4s" repeatCount="indefinite" />
+      </rect>
     </g>
 
     <!-- Content -->
