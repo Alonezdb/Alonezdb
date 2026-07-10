@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Large Terminal CMD window at the top -->
-  <img src="assets/terminal.svg" width="800" alt="Terminal" />
+  <img src="https://raw.githubusercontent.com/Alonezdb/Alonezdb/main/assets/terminal.svg?v=5" width="800" alt="Terminal" />
 </div>
 
 <br/><br/>
@@ -19,7 +19,7 @@
 
 <div align="center">
   <!-- Divider -->
-  <img src="assets/divider.svg" width="800" alt="Divider" />
+  <img src="https://raw.githubusercontent.com/Alonezdb/Alonezdb/main/assets/divider.svg?v=5" width="800" alt="Divider" />
 </div>
 
 <br/><br/>
@@ -47,7 +47,7 @@
 
 <div align="center">
   <!-- Divider -->
-  <img src="assets/divider.svg" width="800" alt="Divider" />
+  <img src="https://raw.githubusercontent.com/Alonezdb/Alonezdb/main/assets/divider.svg?v=5" width="800" alt="Divider" />
 </div>
 
 <br/>
@@ -55,14 +55,14 @@
 <!-- Projects Showcase -->
 <div align="center">
   <h3 style="font-family: -apple-system, BlinkMacSystemFont, 'Outfit', 'Segoe UI', sans-serif; font-weight: 700; color: #ffffff; letter-spacing: -0.02em; margin-bottom: 20px;">FEATURED PROJECTS</h3>
-  <img src="assets/projects.svg?v=5" width="800" alt="Project Cards" />
+  <img src="https://raw.githubusercontent.com/Alonezdb/Alonezdb/main/assets/projects.svg?v=5" width="800" alt="Project Cards" />
 </div>
 
 <br/>
 
 <div align="center">
   <!-- Divider -->
-  <img src="assets/divider.svg" width="800" alt="Divider" />
+  <img src="https://raw.githubusercontent.com/Alonezdb/Alonezdb/main/assets/divider.svg?v=5" width="800" alt="Divider" />
 </div>
 
 <br/>
@@ -70,14 +70,14 @@
 <!-- Statistics & Languages -->
 <div align="center">
   <h3 style="font-family: -apple-system, BlinkMacSystemFont, 'Outfit', 'Segoe UI', sans-serif; font-weight: 700; color: #ffffff; letter-spacing: -0.02em; margin-bottom: 20px;">ANALYTICS &amp; METRICS</h3>
-  <img src="assets/metrics.svg?v=5" width="800" alt="GitHub Profile Metrics" />
+  <img src="https://raw.githubusercontent.com/Alonezdb/Alonezdb/main/assets/metrics.svg?v=5" width="800" alt="GitHub Profile Metrics" />
 </div>
 
 <br/>
 
 <div align="center">
   <!-- Divider -->
-  <img src="assets/divider.svg" width="800" alt="Divider" />
+  <img src="https://raw.githubusercontent.com/Alonezdb/Alonezdb/main/assets/divider.svg?v=5" width="800" alt="Divider" />
 </div>
 
 <br/>
@@ -91,7 +91,7 @@
       <div align="center">
         <!-- Vercel Deployment Link (Replace 'assets/spotify.svg' with 'https://your-vercel-project.vercel.app/api/spotify' for instant updates) -->
         <a href="https://open.spotify.com" target="_blank" style="text-decoration: none;">
-          <img src="assets/spotify.svg" width="400" alt="Spotify status" />
+          <img src="https://raw.githubusercontent.com/Alonezdb/Alonezdb/main/assets/spotify.svg?v=5" width="400" alt="Spotify status" />
         </a>
       </div>
     </td>
@@ -100,7 +100,7 @@
     <td width="360" valign="top" style="border: none; padding: 10px;">
       <h4 align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Outfit', sans-serif; font-weight: 700; color: #e4e4e7; font-size: 13px; letter-spacing: 0.05em; margin-top: 0; margin-bottom: 15px;">CONTRIBUTION GRAPH</h4>
       <div align="center">
-        <img src="assets/github-contribution-grid-snake-dark.svg?v=5" width="330" alt="Contribution Snake" />
+        <img src="https://raw.githubusercontent.com/Alonezdb/Alonezdb/main/assets/github-contribution-grid-snake-dark.svg?v=5" width="330" alt="Contribution Snake" />
       </div>
     </td>
   </tr>
@@ -123,10 +123,10 @@
 
 <div align="center">
   <!-- Divider -->
-  <img src="assets/divider.svg" width="800" alt="Divider" />
+  <img src="https://raw.githubusercontent.com/Alonezdb/Alonezdb/main/assets/divider.svg?v=5" width="800" alt="Divider" />
   
   <br/>
   
   <!-- Footer Signature -->
-  <img src="assets/footer.svg?v=5" width="800" alt="Footer Signature" />
+  <img src="https://raw.githubusercontent.com/Alonezdb/Alonezdb/main/assets/footer.svg?v=5" width="800" alt="Footer Signature" />
 </div>
