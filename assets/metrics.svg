@@ -71,7 +71,7 @@
     <!-- Grid of Stats -->
     <!-- Col 1, Row 1: Commits -->
     <g transform="translate(0, 40)">
-      <text x="0" y="24" class="stat-val">14</text>
+      <text x="0" y="24" class="stat-val">17</text>
       <text x="0" y="44" class="stat-lbl">TOTAL COMMITS</text>
     </g>
 
@@ -83,7 +83,7 @@
 
     <!-- Col 1, Row 2: Repos -->
     <g transform="translate(0, 140)">
-      <text x="0" y="24" class="stat-val">2</text>
+      <text x="0" y="24" class="stat-val">3</text>
       <text x="0" y="44" class="stat-lbl">REPOSITORIES</text>
     </g>
 
@@ -108,7 +108,8 @@
       
       <!-- Colored segments -->
       <g clip-path="url(#barClip)">
-        <rect x="0" y="0" width="320" height="12" fill="#f1e05a" rx="6" />
+        <rect x="0" y="0" width="250.88" height="12" fill="#f1e05a" rx="6" />
+<rect x="250.88" y="0" width="69.12" height="12" fill="#3572A5" rx="6" />
       </g>
       <clipPath id="barClip">
         <rect width="320" height="12" rx="6" />
@@ -121,7 +122,14 @@
       <g transform="translate(420, 145)">
         <circle cx="10" cy="8" r="5" fill="#f1e05a" />
         <text x="24" y="12" class="legend-name">JavaScript</text>
-        <text x="280" y="12" class="legend-percent" text-anchor="end">100%</text>
+        <text x="280" y="12" class="legend-percent" text-anchor="end">78.4%</text>
+      </g>
+    
+
+      <g transform="translate(420, 169)">
+        <circle cx="10" cy="8" r="5" fill="#3572A5" />
+        <text x="24" y="12" class="legend-name">Python</text>
+        <text x="280" y="12" class="legend-percent" text-anchor="end">21.6%</text>
       </g>
     
 </svg>
