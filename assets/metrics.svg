@@ -108,8 +108,8 @@
       
       <!-- Colored segments -->
       <g clip-path="url(#barClip)">
-        <rect x="0" y="0" width="256.64" height="12" fill="#f1e05a" rx="6" />
-<rect x="256.64" y="0" width="63.36" height="12" fill="#3572A5" rx="6" />
+        <rect x="0" y="0" width="262.71999999999997" height="12" fill="#f1e05a" rx="6" />
+<rect x="262.71999999999997" y="0" width="57.28" height="12" fill="#3572A5" rx="6" />
       </g>
       <clipPath id="barClip">
         <rect width="320" height="12" rx="6" />
@@ -122,14 +122,14 @@
       <g transform="translate(420, 145)">
         <circle cx="10" cy="8" r="5" fill="#f1e05a" />
         <text x="24" y="12" class="legend-name">JavaScript</text>
-        <text x="280" y="12" class="legend-percent" text-anchor="end">80.2%</text>
+        <text x="280" y="12" class="legend-percent" text-anchor="end">82.1%</text>
       </g>
     
 
       <g transform="translate(420, 169)">
         <circle cx="10" cy="8" r="5" fill="#3572A5" />
         <text x="24" y="12" class="legend-name">Python</text>
-        <text x="280" y="12" class="legend-percent" text-anchor="end">19.8%</text>
+        <text x="280" y="12" class="legend-percent" text-anchor="end">17.9%</text>
       </g>
     
 </svg>
