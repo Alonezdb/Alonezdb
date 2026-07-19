@@ -42,7 +42,7 @@
   </g>
 
   <!-- Text Section -->
-  <text x="120" y="38" class="text-status">RECENTLY PLAYED</text>
+  <text x="120" y="38" class="text-status">NOW PLAYING</text>
   <text x="120" y="58" class="text-title">Baccarat Rouge</text>
   <text x="120" y="76" class="text-artist">SadiQ, Haaland936</text>
 
@@ -51,8 +51,14 @@
     <!-- Base track -->
     <line x1="0" y1="0" x2="280" y2="0" stroke="#27272a" stroke-width="3" stroke-linecap="round" />
     <!-- Progress fill -->
-    <line x1="0" y1="0" x2="280" y2="0" stroke="#ffffff" stroke-width="3" stroke-linecap="round" />
+    <line x1="0" y1="0" x2="126.536" y2="0" stroke="#ffffff" stroke-width="3" stroke-linecap="round" />
   </g>
 
+  
+    <g class="eq" transform="translate(400, 48)" fill="#1db954">
+      <rect class="bar bar-1" x="0" y="0" width="3" height="12" rx="1.5" />
+      <rect class="bar bar-2" x="5" y="0" width="3" height="12" rx="1.5" />
+      <rect class="bar bar-3" x="10" y="0" width="3" height="12" rx="1.5" />
+    </g>
   
 </svg>
