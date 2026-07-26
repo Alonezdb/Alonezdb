@@ -43,8 +43,8 @@
 
   <!-- Text Section -->
   <text x="120" y="38" class="text-status">RECENTLY PLAYED</text>
-  <text x="120" y="58" class="text-title">Kalter Krieg</text>
-  <text x="120" y="76" class="text-artist">Pashanim</text>
+  <text x="120" y="58" class="text-title">Ohne dich feat. Selim61 (Bonus)</text>
+  <text x="120" y="76" class="text-artist">Pashanim, Selim61</text>
 
   <!-- Progress Bar -->
   <g transform="translate(120, 92)">
