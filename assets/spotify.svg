@@ -43,8 +43,8 @@
 
   <!-- Text Section -->
   <text x="120" y="38" class="text-status">RECENTLY PLAYED</text>
-  <text x="120" y="58" class="text-title">Komm zu 187</text>
-  <text x="120" y="76" class="text-artist">Gzuz</text>
+  <text x="120" y="58" class="text-title">9mm</text>
+  <text x="120" y="76" class="text-artist">Gzuz, Bonez MC</text>
 
   <!-- Progress Bar -->
   <g transform="translate(120, 92)">
