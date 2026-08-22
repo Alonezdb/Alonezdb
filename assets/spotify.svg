@@ -51,7 +51,7 @@
     <!-- Base track -->
     <line x1="0" y1="0" x2="280" y2="0" stroke="#27272a" stroke-width="3" stroke-linecap="round" />
     <!-- Progress fill -->
-    <line x1="0" y1="0" x2="213.52132325113723" y2="0" stroke="#ffffff" stroke-width="3" stroke-linecap="round" />
+    <line x1="0" y1="0" x2="280" y2="0" stroke="#ffffff" stroke-width="3" stroke-linecap="round" />
   </g>
 
   
